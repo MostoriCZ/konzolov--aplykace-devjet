@@ -16,3 +16,5 @@ else
 {
     Console.Clear();
 }
+Console.WriteLine("Děkuji za využití kalendáře");
+//a to je konec.///
