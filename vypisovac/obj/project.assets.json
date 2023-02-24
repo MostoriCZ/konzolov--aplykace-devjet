@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jakub.zeidel\\source\\repos\\vypisovac\\vypisovac\\vypisovac.csproj",
+      "projectUniqueName": "C:\\Users\\jakub.zeidel\\OneDrive - Střední škola EDUCHEM, a.s\\Dokumenty\\GitHub\\konzolov--aplykace-devjet\\vypisovac\\vypisovac.csproj",
       "projectName": "vypisovac",
-      "projectPath": "C:\\Users\\jakub.zeidel\\source\\repos\\vypisovac\\vypisovac\\vypisovac.csproj",
+      "projectPath": "C:\\Users\\jakub.zeidel\\OneDrive - Střední škola EDUCHEM, a.s\\Dokumenty\\GitHub\\konzolov--aplykace-devjet\\vypisovac\\vypisovac.csproj",
       "packagesPath": "C:\\Users\\jakub.zeidel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jakub.zeidel\\source\\repos\\vypisovac\\vypisovac\\obj\\",
+      "outputPath": "C:\\Users\\jakub.zeidel\\OneDrive - Střední škola EDUCHEM, a.s\\Dokumenty\\GitHub\\konzolov--aplykace-devjet\\vypisovac\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
