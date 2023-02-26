@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jakub.zeidel\\OneDrive - Střední škola EDUCHEM, a.s\\Dokumenty\\GitHub\\konzolov--aplykace-devjet\\vypisovac\\vypisovac.csproj": {}
+    "C:\\Users\\jakub\\Documents\\GitHub\\konzolov--aplykace-devjet\\vypisovac\\vypisovac.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jakub.zeidel\\OneDrive - Střední škola EDUCHEM, a.s\\Dokumenty\\GitHub\\konzolov--aplykace-devjet\\vypisovac\\vypisovac.csproj": {
+    "C:\\Users\\jakub\\Documents\\GitHub\\konzolov--aplykace-devjet\\vypisovac\\vypisovac.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jakub.zeidel\\OneDrive - Střední škola EDUCHEM, a.s\\Dokumenty\\GitHub\\konzolov--aplykace-devjet\\vypisovac\\vypisovac.csproj",
+        "projectUniqueName": "C:\\Users\\jakub\\Documents\\GitHub\\konzolov--aplykace-devjet\\vypisovac\\vypisovac.csproj",
         "projectName": "vypisovac",
-        "projectPath": "C:\\Users\\jakub.zeidel\\OneDrive - Střední škola EDUCHEM, a.s\\Dokumenty\\GitHub\\konzolov--aplykace-devjet\\vypisovac\\vypisovac.csproj",
-        "packagesPath": "C:\\Users\\jakub.zeidel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jakub.zeidel\\OneDrive - Střední škola EDUCHEM, a.s\\Dokumenty\\GitHub\\konzolov--aplykace-devjet\\vypisovac\\obj\\",
+        "projectPath": "C:\\Users\\jakub\\Documents\\GitHub\\konzolov--aplykace-devjet\\vypisovac\\vypisovac.csproj",
+        "packagesPath": "C:\\Users\\jakub\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jakub\\Documents\\GitHub\\konzolov--aplykace-devjet\\vypisovac\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jakub.zeidel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\jakub\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
