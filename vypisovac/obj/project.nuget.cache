@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "1Oq2ptuwszvI4qT7YsowaknkRSIyrWAzlYjzGNVuGPhsVBROntcXe25QKccjBXpKG+EWSBXM5uWxX9tLch9wUQ==",
+  "dgSpecHash": "kWehYxqpjlW1Kg2G9jCcv5UEOIuXvRXg8nkho9GmLVT4yjEnaUcsH1maFqYBYbz4QqdZObRYcTT58yYhL8+58A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jakub.zeidel\\OneDrive - Střední škola EDUCHEM, a.s\\Dokumenty\\GitHub\\konzolov--aplykace-devjet\\vypisovac\\vypisovac.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\jakub\\Documents\\GitHub\\konzolov--aplykace-devjet\\vypisovac\\vypisovac.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jakub\\.nuget\\packages\\spectre.console\\0.46.0\\spectre.console.0.46.0.nupkg.sha512",
+    "C:\\Users\\jakub\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
   "logs": []
 }
